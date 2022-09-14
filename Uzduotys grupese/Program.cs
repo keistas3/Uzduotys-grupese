@@ -9,7 +9,7 @@ sdsdf
 
 */
 
-
+//1 uzduotis
 Console.WriteLine("Suskaičiuoti Žemės rutulio plotą");
 int spindulys = 6371;
 double pi = Math.PI;
@@ -17,9 +17,7 @@ double plotas = 4 * pi * (spindulys * spindulys);
 Console.WriteLine("Žemės rutulio plotas yra: " + plotas + " km2");
 
 
-
-
-//3 uzduotis
+//2 uzduotis
 Console.WriteLine("Apskaiciuojamas zemes turis");
 int r = 6371;
 double pI = Math.PI;
@@ -27,24 +25,7 @@ double turis = (4 / 3) * pI * (r * r * r);
 Console.WriteLine($"Zemes rutulio turis yra: {turis}km3");
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // 3 dalis */
-/* 3 dalis */
-
 double statinisA = 10;
 double statinisB = 15;
 
@@ -54,7 +35,6 @@ double statinisC = Math.Sqrt(statinisA * statinisA + statinisB * statinisB);
 Console.WriteLine("StatinisC: " + statinisC);
 
 /* 4 dalis */
-
 Console.WriteLine("**********************************");
 Console.WriteLine("* Kintamasis1 : " + plotas);
 Console.WriteLine("* Kintamasis2 : ");
