@@ -29,6 +29,8 @@ išvesti rezultatą, kaip pateikta pavyzdyje.
 
 / * 3 dalis */
 
+using System;
+
 double statinisA = 10;
 double statinisB = 15;
 
@@ -36,6 +38,20 @@ Console.WriteLine("Staciojo trikampio statiniai: A=10, B =15");
 
 double statinisC = Math.Sqrt(statinisA * statinisA + statinisB * statinisB);
 Console.WriteLine("StatinisC: " + statinisC);
+
+/* 4 dalis */
+
+Console.WriteLine("**********************************");
+Console.WriteLine("* Kintamasis1 : ");
+Console.WriteLine("* Kintamasis2 : ");
+Console.WriteLine("* Kintamasis3 : ");
+Console.WriteLine("* Suma : ");
+Console.WriteLine("* Vidurkis : ");
+Console.WriteLine("**********************************");
+
+
+
+
 
 
 
