@@ -15,3 +15,37 @@ int spindulys = 6371;
 double pi = Math.PI;
 double plotas = 4 * pi * (spindulys * spindulys);
 Console.WriteLine("Žemės rutulio plotas yra: " + plotas + " km2");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/ * 3 dalis */
+
+double statinisA = 10;
+double statinisB = 15;
+
+Console.WriteLine("Staciojo trikampio statiniai: A=10, B =15");
+
+double statinisC = Math.Sqrt(statinisA * statinisA + statinisB * statinisB);
+Console.WriteLine("StatinisC: " + statinisC);
+
+
+
