@@ -37,9 +37,7 @@ Console.WriteLine("Žemės rutulio plotas yra: " + plotas + " km2");
 
 
 
-/ * 3 dalis */
-
-using System;
+/* 3 dalis */
 
 double statinisA = 10;
 double statinisB = 15;
@@ -52,11 +50,11 @@ Console.WriteLine("StatinisC: " + statinisC);
 /* 4 dalis */
 
 Console.WriteLine("**********************************");
-Console.WriteLine("* Kintamasis1 : ");
+Console.WriteLine("* Kintamasis1 : " + plotas);
 Console.WriteLine("* Kintamasis2 : ");
-Console.WriteLine("* Kintamasis3 : ");
-Console.WriteLine("* Suma : ");
-Console.WriteLine("* Vidurkis : ");
+Console.WriteLine("* Kintamasis3 : " + statinisC);
+Console.WriteLine("* Suma : " + (plotas + statinisC));
+Console.WriteLine("* Vidurkis : " + (plotas + statinisC)/2);
 Console.WriteLine("**********************************");
 
 
