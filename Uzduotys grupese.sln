@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uzduotys grupese", "Uzduotys grupese\Uzduotys grupese.csproj", "{92118A37-F63A-4AAC-8213-8ABEA99DE2CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92118A37-F63A-4AAC-8213-8ABEA99DE2CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92118A37-F63A-4AAC-8213-8ABEA99DE2CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92118A37-F63A-4AAC-8213-8ABEA99DE2CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92118A37-F63A-4AAC-8213-8ABEA99DE2CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F63FCFA5-990A-4D29-80BB-CE7A031792BB}
+	EndGlobalSection
+EndGlobal
