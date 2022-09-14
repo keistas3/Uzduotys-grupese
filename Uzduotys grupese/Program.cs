@@ -9,10 +9,6 @@ sdsdf
 
 */
 
-/*Console.WriteLine("Suskaičiuoti Žemės rutulio plotą");
-double plotas = 4 * 3.14 * 6371 * 6371;
-Console.WriteLine("Žemės rutulio plotas yra: " + plotas + " km2");
-*/
 
 Console.WriteLine("Suskaičiuoti Žemės rutulio plotą");
 int spindulys = 6371;
