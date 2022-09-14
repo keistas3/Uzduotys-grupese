@@ -19,6 +19,12 @@ Console.WriteLine("Žemės rutulio plotas yra: " + plotas + " km2");
 
 
 
+//3 uzduotis
+Console.WriteLine("Apskaiciuojamas zemes turis");
+int r = 6371;
+double pI = Math.PI;
+double turis = (4 / 3) * pI * (r * r * r);
+Console.WriteLine($"Zemes rutulio turis yra: {turis}km3");
 
 
 
@@ -36,10 +42,8 @@ Console.WriteLine("Žemės rutulio plotas yra: " + plotas + " km2");
 
 
 
+// 3 dalis */
 
-/ * 3 dalis */
-
-using System;
 
 double statinisA = 10;
 double statinisB = 15;
